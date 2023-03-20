@@ -1,5 +1,6 @@
 # Knative Eventing
 
+Test only
 [![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white)](https://pkg.go.dev/knative.dev/eventing)
 [![Go Report Card](https://goreportcard.com/badge/knative/eventing)](https://goreportcard.com/report/knative/eventing)
 [![Releases](https://img.shields.io/github/release-pre/knative/eventing.svg)](https://github.com/knative/eventing/releases)
